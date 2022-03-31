@@ -1,0 +1,12 @@
+aguenta 3 horas - velocidade de 10 cm/h
+aguenta 2 horas - velocidade de 10 cm/h até menor igual 20 cm/h
+aguenta 1 horas - velocidade de 20 cm/h até 100 cm/h
+
+todas as lesmas podem correr até 100 cm/h
+
+Ex1
+5 lesmas
+12 cm/h, 9 cm/h, 8 cm/h, 7 cm/h, 6 cm/h
+3 horas
+
+Qual lesmas percorre mais rápida no determinado tempo ?

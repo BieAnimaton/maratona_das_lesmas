@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646911064 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\maratona des lesmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
